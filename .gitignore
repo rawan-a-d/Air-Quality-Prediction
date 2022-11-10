@@ -1,3 +1,9 @@
+# data folder
+data
+
+# cache file
+.dccache
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
